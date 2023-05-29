@@ -15,10 +15,6 @@ audio/*
 audio/
 audio/
 datasets/
-main.ipynb
-main.py
-main2.py
-notebooks/
 outputfiles/
 requirements.txt
 scaper37env/
