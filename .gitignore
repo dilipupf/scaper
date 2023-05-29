@@ -10,3 +10,16 @@ docs/_build/*
 scaper/bin/*
 .pytest_cache/*
 **/.DS_Store
+scaper37env/*
+audio/*
+audio/
+audio/
+datasets/
+main.ipynb
+main.py
+main2.py
+notebooks/
+outputfiles/
+requirements.txt
+scaper37env/
+```
