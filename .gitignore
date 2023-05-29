@@ -18,4 +18,5 @@ datasets/
 outputfiles/
 requirements.txt
 scaper37env/
+.env
 ```
